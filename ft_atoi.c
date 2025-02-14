@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "libft.h"
 
-//수정 예시 
 int ft_atoi(const char *str){
     long long int minus = 1;
     long long int result =0;
